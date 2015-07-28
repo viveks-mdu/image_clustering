@@ -1,0 +1,26 @@
+1. SVM files
+arff_promo.py
+validation.new
+training.new
+promoters_dataset.arff
+
+Run the code:
+$ python3.4 arff_promo.py
+
+2. Boosting:
+Folders:
+balance scale
+page blocks
+
+contains the arff file used for the WEKA testing
+
+3. Clustering:
+clustering.java
+output files created for koala and penguin image.
+
+$ javac clustering.java
+$ java clustering 2 koala.jpg output
+
+
+Report.odt
+READ ME.txt
